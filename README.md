@@ -28,7 +28,7 @@
   <img align="center" alt="Laís-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Laís-CodePen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
 
-  <img align="right" alt="Lais-PIC" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/b4578c5b1d1b9e36c1d56d66a0704499.gif">
+  <img align="right" alt="Lais-PIC" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/3abd349269a6435d05f76799d24f14ff.gif">
 </div>
 
 ##
