@@ -20,6 +20,9 @@
   <img align="center" alt="Lais-Cypress" height="30" width="40" src="https://user-images.githubusercontent.com/95968249/213702887-6e6594e3-5b62-4def-87bf-01aac54b09b4.png">
   <img align="center" alt="Laís-Trello" height="30" width="40" src="https://user-images.githubusercontent.com/95968249/205514076-90bac066-9f5b-4de2-8735-758163f86fa3.png">
   <img align="center" alt="Laís-Notion" height="30" width="40" src="https://user-images.githubusercontent.com/95968249/205514091-c4d02a3e-0565-49c9-8a27-f4288fd6f85e.png">
+  
+##
+  
   <img align="center" alt="Laís-Canva" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg">
   <img align="center" alt="Laís-Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
   <img align="center" alt="Laís-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
@@ -28,7 +31,7 @@
   <img align="center" alt="Laís-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Laís-CodePen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
 
-  <img align="right" alt="Lais-PIC" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/3abd349269a6435d05f76799d24f14ff.gif">
+  <img align="right" alt="Lais-PIC" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95968249/215878910-0764324e-0067-4df5-8a76-ae3d8527ee44.png">
 </div>
 
 ##
