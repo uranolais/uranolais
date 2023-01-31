@@ -29,6 +29,8 @@
   <img align="center" alt="Laís-CodePen" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg">
   <img align="center" alt="Laís-Express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />    
   <img align="center" alt="Laís-Markdown" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+  <img align="center" alt="Laís-Pycharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+          
           
   <img align="right" alt="Lais-PIC" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95968249/215878910-0764324e-0067-4df5-8a76-ae3d8527ee44.png">
 </div>
