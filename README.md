@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou a Laís Urano 👩‍💻🪐.
 
 - 💙 Faço parte do Scuba Team na Escola de Programação da Alura
-- 🐍 Estudando Python
+- 🐍 Estudando Python e JavaScript
 - 💭 Pronomes: ela/dela
 
 <div align="center">
