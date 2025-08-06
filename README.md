@@ -2,7 +2,7 @@
 
 ⚡ Engenheira Eletricista formada pela UFPI  
 💙 Desenvolvedora de Software na [Alura](https://www.alura.com.br)  
-🐍 Apaixonada por Python, IA e tecnologia  
+🐍 Trabalhando com Python, IA e tecnologia  
 💭 Pronomes: ela/dela  
 
 ---
