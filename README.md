@@ -1,7 +1,7 @@
 ### Olá, mundo! Eu sou a Laís Urano 👩‍💻🪐
 
 ⚡ Engenheira Eletricista formada pela UFPI  
-🧡 Engenheira de Software no Jeitto   
+🧡 Engenheira de Software na Jeitto   
 🐍 Trabalhando com Python, IA e tecnologia  
 💭 Pronomes: ela/dela  
 
